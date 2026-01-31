@@ -1,5 +1,3 @@
-# Marcos Antonio Espinoza Mina, PhD
-
 Doctor en Administración de Empresas · Magíster en Estadística Aplicada ·  
 Magíster en Sistemas de Información (Inteligencia de Negocios y Analítica de Datos) ·  
 Magíster en Negocios Internacionales y Comercio Exterior ·  
@@ -53,10 +51,10 @@ Experiencia en docencia de pregrado y posgrado, tutoría de trabajos de titulaci
   Investigador Acreditado – Investigador Agregado 2
 
 - **Consejo de la Judicatura**  
-  Perito en Informática, Sistemas y Computación (desde 2010)
+  Perito en Informática, Sistemas y Computación (desde 2010 hasta 2025)
 
 - **Consultor independiente**  
-  Analítica de datos, sistemas de información, auditoría informática y peritaje técnico
+  Analítica de datos, sistemas de información y auditoría informática
 
 ---
 
