@@ -1,8 +1,8 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: "Dr. Marcos Antonio Espinoza Mina"
 description: "Doctor en Administración | Magíster en Estadística, Sistemas y Negocios | Docente Universitario"
+logo: "/mespinoza.jpg"
 
-# Desactiva botones de descarga y limpia el pie de página
 show_downloads: false
 google_analytics: 
 github:
