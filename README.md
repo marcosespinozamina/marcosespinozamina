@@ -7,7 +7,9 @@ Ingeniero en Sistemas Computacionales
 
 Docente universitario · Investigador · Analista de datos · Perito Informático Judicial
 
-[ORCID](https://orcid.org/0000-0003-1530-7243) · [LinkedIn](https://www.linkedin.com/in/marcos-espinoza-mina)
+[ORCID](https://orcid.org/0000-0003-1530-7243) ·
+[Google Scholar](https://scholar.google.com/citations?user=CnSbLTYAAAAJ) ·
+[LinkedIn](https://www.linkedin.com/in/marcos-espinoza-mina)
 
 ---
 
