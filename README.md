@@ -121,7 +121,7 @@ Formación continua permanente desde 2002, respaldadas por certificados instituc
 - Investigación educativa
 
 ### Idiomas
-- **Inglés – Nivel B1 (MCER)**  
+- Inglés – Nivel B1 (MCER)  
   Certificación universitaria (200 horas)
 
 ---
