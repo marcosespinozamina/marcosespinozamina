@@ -45,11 +45,11 @@ Experiencia en docencia de pregrado y posgrado, tutoría de trabajos de titulaci
 - **Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (SENESCYT)**  
   Investigador Acreditado – Investigador Agregado 2
 
-- **Consejo de la Judicatura**  
-  Perito en Informática, Sistemas y Computación (desde 2010 hasta 2025)
-
 - **Consultor independiente**  
   Analítica de datos, sistemas de información y auditoría informática
+
+- **Consejo de la Judicatura**  
+  Perito en Informática, Sistemas y Computación (desde 2010 hasta 2025)
 
 ---
 
@@ -82,9 +82,9 @@ Autor y coautor de **más de 90 trabajos académicos** entre artículos científ
 
 ---
 
-## Capacitaciones y formación continua (todas certificadas)
+## Capacitaciones y formación continua
 
-Formación continua permanente desde 2002, con **más de 1.200 horas de capacitación certificada**, respaldadas por certificados institucionales.
+Formación continua permanente desde 2002, respaldadas por certificados institucionales.
 
 ### Evaluación externa y aseguramiento de la calidad (CACES – UTPL)
 - Aseguramiento de la calidad de la educación superior (50 h)
