@@ -1,9 +1,4 @@
-Doctor en Administración de Empresas · Magíster en Estadística Aplicada ·  
-Magíster en Sistemas de Información (Inteligencia de Negocios y Analítica de Datos) ·  
-Magíster en Negocios Internacionales y Comercio Exterior ·  
-Ingeniero en Sistemas Computacionales  
-
-Docente universitario · Investigador · Analista de datos · Perito Informático Judicial
+Doctor en Administración de Empresas · Magíster en Estadística Aplicada · Magíster en Sistemas de Información (Inteligencia de Negocios y Analítica de Datos) ·  Magíster en Negocios Internacionales y Comercio Exterior · Ingeniero en Sistemas Computacionales  
 
 [ORCID](https://orcid.org/0000-0003-1530-7243) ·
 [Google Scholar](https://scholar.google.com/citations?user=CnSbLTYAAAAJ) ·
