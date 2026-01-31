@@ -68,7 +68,7 @@ Fundamentos de Tecnología de la Información; Fundamentos de Computación; Info
 
 ## Producción científica
 
-Autor y coautor de **más de 90 trabajos académicos** entre artículos científicos, libros, capítulos de libro, comunicaciones en congresos y desarrollos de software registrados en ORCID.
+Autor y coautor de **más de 90 trabajos académicos** entre artículos científicos, libros, capítulos de libro, comunicaciones en congresos y desarrollos de software registrados en [ORCID](https://orcid.org/0000-0003-1530-7243).
 
 ### Publicaciones destacadas
 - Artículos en revistas indexadas (Scopus, Springer, Latindex)
@@ -85,7 +85,7 @@ Autor y coautor de **más de 90 trabajos académicos** entre artículos científ
 - Educación superior, innovación y transformación digital  
 - Ciencia ciudadana, sostenibilidad y Agenda 2030  
 
-(Producción completa disponible en ORCID)
+(Producción completa disponible en [ORCID](https://orcid.org/0000-0003-1530-7243))
 
 ---
 
