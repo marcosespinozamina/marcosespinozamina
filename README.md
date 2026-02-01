@@ -147,7 +147,7 @@ Formación continua permanente desde 2002, respaldadas por certificados instituc
 ## Información de contacto
 
 - Email: marcos@ecuaportales.com  
-- ORCID: https://orcid.org/0000-0003-1530-7243
-- Google Scholar: https://scholar.google.com/citations?user=CnSbLTYAAAAJ
+- [ORCID](https://orcid.org/0000-0003-1530-7243)
+- [Google Scholar](https://scholar.google.com/citations?user=CnSbLTYAAAAJ)
 - LinkedIn: https://www.linkedin.com/in/marcos-espinoza-mina  
 - Ubicación: Guayaquil – Ecuador
