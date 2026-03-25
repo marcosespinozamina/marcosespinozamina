@@ -10,7 +10,7 @@ Doctor en Administración de Empresas · Magíster en Estadística Aplicada · M
 
 Doctor en Administración con formación sólida en estadística, sistemas de información y analítica de datos. Docente investigador universitario con más de 25 años de experiencia en tecnologías de la información, ingeniería de software, ciencia de datos y gestión de TI. Investigador acreditado en el Ecuador y perito informático judicial, con producción científica indexada en Scopus, Springer, CEUR-WS y Latindex.
 
-Experiencia en docencia de pregrado y posgrado, tutoría de trabajos de titulación, evaluación de proyectos académicos y participación en procesos de acreditación y aseguramiento de la calidad de la educación superior.
+Experiencia en docencia de pregrado y posgrado, tutoría de trabajos de titulación, evaluación de proyectos académicos y participación en procesos de acreditación y aseguramiento de la calidad de la educación superior. Trayectoria docente desarrollada en universidades como Universidad Católica de Santiago de Guayaquil, Universidad de Guayaquil, Universidad Laica Vicente Rocafuerte, Universidad Agraria del Ecuador, Universidad Tecnológica ECOTEC y Universidad Politécnica Estatal del Carchi, impartiendo asignaturas en programación, ingeniería de software, estadística aplicada, analítica de datos, machine learning y módulos de posgrado en probabilidad y estadística inferencial.
 
 ---
 
