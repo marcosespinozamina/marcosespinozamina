@@ -42,7 +42,7 @@ Investigador acreditado por SENESCYT (Investigador Agregado 2) y ex perito infor
 ## Formación académica y certificaciones
 
 - **Certificación como Delegado de Protección de Datos Personales (DPO)** *(2026)*  
-  *[Agrega aquí el nombre de la institución emisora]*
+  Universidad de Especialidades Espíritu Santo (UEES)
 
 - **Doctor en Administración de Empresas (PhD)**  
   Pontificia Universidad Católica Argentina
