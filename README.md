@@ -85,7 +85,7 @@ Autor y coautor de más de 90 productos académicos entre artículos científico
 
 ## Información de contacto
 
-- **Email:** [marcos@ecuaportales.com](mailto:marcos@ecuaportales.com)
+- **Email:** [marcos.espinoza.mina@gmail.com](mailto:marcos.espinoza.mina@gmail.com)
 - **LinkedIn:** [linkedin.com/in/marcos-espinoza-mina](https://www.linkedin.com/in/marcos-espinoza-mina)
 - **ORCID:** [0000-0003-1530-7243](https://orcid.org/0000-0003-1530-7243)
 - **Google Scholar:** [Ver perfil](https://scholar.google.com/citations?user=CnSbLTYAAAAJ)
